@@ -114,7 +114,7 @@ The interactive dashboard includes:
 
 Dashboard preview:
 
-<!-- Add your dashboard screenshot here -->
+![E-Commerce Sales Dashboard](images/dashboard_preview.png)
 
 ## 8. Repository Structure
 
