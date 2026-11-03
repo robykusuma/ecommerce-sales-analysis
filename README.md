@@ -134,11 +134,19 @@ ecommerce-sales-analysis/
 
 ## 9. Limitations
 
-- The dataset is publicly available sample data and is not verified company transaction data.
-- The dataset contains dates ranging from 2022 to 2035. This unusual date range should be considered when interpreting time-based results.
-- The analysis is descriptive and does not establish causal relationships.
-- Findings should be interpreted within the limitations of the dataset.
+This project uses a publicly available sample dataset from Kaggle. Several limitations should be considered when interpreting the results:
+
+- **Dataset authenticity:** The dataset is sample data and has not been verified as actual business transaction data. Therefore, the findings should not be treated as representative of a real e-commerce business.
+- **Unusual date range:** The dataset contains order dates from January 2022 to September 2035. This unusual range may affect the interpretation of historical trends and future-dated records.
+- **Descriptive analysis:** The analysis identifies patterns and associations but does not establish causal relationships. For example, differences in revenue across discount levels do not prove that discounts cause changes in revenue.
+- **Customer behavior:** The dataset shows a high repeat-customer rate. This may not reflect typical real-world customer retention and should be interpreted cautiously.
+- **Data scope:** The analysis is limited to the variables available in the dataset. Additional information, such as marketing costs, profit margins, and operating expenses, would be needed for a more comprehensive business performance assessment.
+
+The findings should therefore be interpreted within the context and limitations of the available dataset.
 
 ## 10. Author
 
-Personal data analysis portfolio project.
+Roby Kusuma
+Aspiring Data Analyst interested in data analysis, SQL, and data visualization.
+
+This project is part of my personal portfolio, demonstrating my ability to work with structured data, perform SQL analysis, and communicate findings through interactive dashboards.
